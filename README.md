@@ -2,7 +2,7 @@
 I'm a backend web developer from Japan :jp:
 
 ### BLOG  
-[daisuzz.log](https://iikanji.hatenablog.jp/archive)
+https://iikanji.hatenablog.jp/archive
 
 ### LinkedIn  
 https://www.linkedin.com/in/daisuzz/
