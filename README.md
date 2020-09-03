@@ -1,5 +1,5 @@
 # Hi there! I'm daisuzz :sushi:
-I'm a web developper in Japan.
+I'm a backend web developer from Japan :jp:
 
 ### BLOG  
 [daisuzz.log](https://iikanji.hatenablog.jp/archive)
