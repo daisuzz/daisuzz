@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1122" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1158" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1317 Commits
+                            1318 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="91.65955016642343" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="91.65955016642343" y="0" width="86.58703339428796" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="178.24658356071137" y="0" width="84.06961517827786" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="262.31619873898927" y="0" width="71.721077800788" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="334.0372765397773" y="0" width="48.24436842742843" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="382.28164496720564" y="0" width="43.013169659596315" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="425.29481462680195" y="0" width="20.292985988128272" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="445.5878006149302" y="0" width="14.412199385069771" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="91.58342127908766" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="91.58342127908766" y="0" width="86.51511754375144" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="178.0985388228391" y="0" width="83.99979019822233" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="262.09832902106143" y="0" width="72.0435672988194" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="334.1418963198808" y="0" width="48.204298515652425" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.3461948355332" y="0" width="42.97744457976531" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="425.3236394152985" y="0" width="20.27613141660581" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="445.5997708319043" y="0" width="14.400229168095604" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -544,6 +544,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#651f260</div>
+                                        <div class="message">18章まで</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">daisuzz/go-system-programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#43c9ae6</div>
                                         <div class="message">16章まで</div>
                                     </div>
@@ -596,28 +616,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">renovate/firebase-tools-13.x</span>
-                                        in
-                                        <span class="repo">daisuzz/web</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jan 2024, 21:17:45 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2024, 22:11:27 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
