@@ -252,7 +252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dmm-com/observability-maturity-model</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DMM.comで策定・運用されている、組織のオブザーバビリティ能力を評価・改善するための成熟度モデル</div>
@@ -494,7 +494,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2026, 07:41:42 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2026, 08:49:43 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
